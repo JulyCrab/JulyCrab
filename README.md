@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulyCrab
-- 👀 I’m working in Programming,developing games,.
-- 🌱 I’m currently learning JavaScript and node.js
-- 💞️ I’m looking to collaborate on game developing.
-- 📫 How to reach me: via Github
+- 👀 I’m working in a video game 
+- 🌱 I’m currently learning C++ & node.js
+- 💞️ I’m always working on Unreal Engine stuff.
+- 📫 How to reach me: Only Github
 
