@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=JulyCrab)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @JulyCrab
 - 👀 I’m working in a video game 
 - 🌱 I’m currently learning C++
