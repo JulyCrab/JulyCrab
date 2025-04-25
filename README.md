@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @JulyCrab
-- 👀 I'm working in a video game 
+- 👀 I'm working in on mods & on a game
 - 🌱 I'm currently learning C++
-- 💞️ I'm always working on Unreal Engine stuff.
+- 💞️ I'm always working with Unreal Engine
 - 📫 How to reach me: Only Github
 
 More detailed info about me:
