@@ -2,7 +2,7 @@
 - 👀 I'm working in on mods & on a game
 - 🌱 I'm currently learning C++
 - 💞️ I'm always working with Unreal Engine
-- 📫 How to reach me: Only Github
+- 📫 How to reach me: Only through GitHub
 
 More detailed info about me:
 
