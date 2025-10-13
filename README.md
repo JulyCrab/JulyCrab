@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @JulyCrab
-- 👀 I'm working on mods & on a game
+- 👀 I'm working on SplatApp!
 - 🌱 I'm currently learning C++
-- 💞️ I'm always working with Unreal Engine
+- 💞️ I'm always working with GitHub & Visual Studio Code
 - 📫 How to reach me: Only through GitHub
 
 More detailed info about me:
