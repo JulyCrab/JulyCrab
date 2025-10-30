@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @JulyCrab
 - 👀 I'm working on SplatApp!
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently learning German! 
 - 💞️ I'm always working with GitHub & Visual Studio Code
 - 📫 How to reach me: Only through GitHub
 
