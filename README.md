@@ -2,7 +2,7 @@
 - 👀 I'm working on SplatApp!
 - 🌱 I'm currently learning German! 
 - 💞️ I'm always working with GitHub & Visual Studio Code
-- 🏢 I'm the founder of Summer Interactive
+- 🏢 I'm the founder of [Summer Interactive](https://summerinteractive.es/)
 - 📫 How to reach me: Only through GitHub
 
 More detailed info about me:
