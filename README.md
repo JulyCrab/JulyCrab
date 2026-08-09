@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @JulyCrab
-- 👀 I'm working on SplatApp!
-- 🌱 I'm currently learning German! 
-- 💞️ I'm always working with GitHub & Visual Studio Code
+- 👀 I'm a developer at SplatApp!
+- 🌱 I'm currently learning German! But I can communicate in both Spanish and English! 
+- 💞️ I love modding videogames in my free time!
 - 🏢 I'm the founder of [Summer Interactive](https://summerinteractive.es/)
 - 📫 How to reach me: Only through GitHub
 
